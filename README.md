@@ -6,3 +6,5 @@ Ejercicios para entegar:
  - Se requiere api que pueda paginar estos libros (Optional utilizar recursos adecuados para generar esta salida.)
 
  Se puede usar cualquier manejador de servidor para correorlo y base de datos. 
+ 
+ Usar appLaravel9 para trabajar.
